@@ -17,7 +17,7 @@ I am a motivated undergraduate computer science student in my sixth semester at 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vaibhavprocastix&icon=0&color=0)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=vaibhavprocastix&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **vaibhavprocastix/vaibhavprocastix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
