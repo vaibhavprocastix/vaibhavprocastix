@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a motivated undergraduate computer science student in my sixth semester at the Shri Madhwa Vadiraja<br>Institute of Technology and Management. I have keen interest in programming, web development, and IoT<br>security. I am excited to apply my technical skills to solve real-world problems and continue growing in this<br>field, with exceptional problem-solving abilities and a strong commitment to teamwork.
+Computer Science Engineering graduate(BE), currently pursuing a Master's degree(ME), with a growing interest in data science, Deep Learning.<br>Having good foundation in software development and keep interest in science and problem solving.<br>Proficient in C,Java,Python and DBMS.
 
 
 ## 🌐 Socials:
